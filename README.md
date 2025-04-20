@@ -24,6 +24,6 @@ Requires your phone to respond to pings. Be aware that IPhones don't do it while
 Let’s be real - if a “smart” light needs to be turned on and off manually through an app, it's not smart. It's just wireless. You’ve basically traded your wall switch for a phone screen. It's even more complicated than wall swith if you think about it.
 
 **4LAMP is actually smart.**  
-It doesn’t wait for you to tap buttons — it *knows* when you're home and acts on its own. And when you disconnect the internet (or the world ends), it shuts off like a considerate little bot should.
+It doesn’t wait for you to tap buttons - it *knows* when you're home and acts on its own. And when you disconnect the internet (or the world ends), it shuts off like a considerate little bot should.
 
 This is the difference between *remote-controlled* and *automated*.
