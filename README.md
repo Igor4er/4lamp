@@ -2,22 +2,16 @@
 
 **A smart ([no, really](#my-complaints)) lighting solution built for the ESP8266 ESP-01 module.**
 
----
-
 ## 🔧 What It Does
 
 4LAMP constantly pings your phone (or any chosen device) to detect when you enter your home. Once detected, it activates ***vibrant*** lights to greet your dramatic return.
 
 Built to work with an N-channel MOSFET like the **IRLZ44N** for easy control of high-power LEDs or lamps.
 
----
-
 ## 💤 Auto Shutoff (aka “let me sleep in peace” mode)
 
 If the internet connection drops, the lights turn off automatically.  
 Why? Because my house is weird. I have to cut the internet to sleep without a miniature sun blinding me at 2AM. So I made this feature. For me. By me.
-
----
 
 ## 💡 Compatibility
 
