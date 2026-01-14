@@ -1,5 +1,5 @@
 # 4LAMP (aka *flamp1*)
-
+# ⚠️ Newer version available. Rewritten using esp-idf and FreeRTOS [here](https://github.com/Igor4er/4lamp2).
 **A smart ([no, really](#my-complaints)) lighting solution built for the ESP8266 ESP-01 module.**
 
 ## 🔧 What It Does
